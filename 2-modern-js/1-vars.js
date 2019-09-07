@@ -16,3 +16,4 @@ function sum(a, b) {
 }
 
 sum(4 + 3);
+console.log(i);
